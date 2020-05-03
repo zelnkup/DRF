@@ -1,0 +1,8 @@
+*.log
+*.pot
+*.pyc
+__pycache__/
+media
+static
+stars/migrations
+db.sqlite3
